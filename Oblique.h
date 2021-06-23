@@ -3,7 +3,7 @@
 * @Function: Header file of Oblique.cpp, a inheritance hierarchy class derived from Shape and Isosceles calsses,
 * representing concrete geometric shape of Oblique. It inherits members and methods from Shape and Isosceles classes,
 * override some of the methods, and also has its own members and methods.
-* @author: Lin Li 40044486
+* @author: Lin Li 
 * @version: 1.0
 * @date: Aug 9, 2018
 */
