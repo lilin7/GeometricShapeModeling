@@ -1,7 +1,5 @@
 /*
-* Assignment 4
-* Student Name: Lin Li
-* Student ID: 40044486
+* Lin Li
 */
 
 This program implements the Shape inheritance class hierarchy and makes it possible to create concrete shapes including Rectangle, Rhombus, Right Triangle, Oblique Triangle, and print information of each shape as requested by task 1. It also implements those shapes to be drawn in a drawing surface with a class called "Canvas", as requested by task 2. Running this program to get a drawing of a house and information of all shapes which form this house.
