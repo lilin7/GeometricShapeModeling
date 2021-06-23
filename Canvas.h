@@ -2,7 +2,7 @@
 * @ClassName: Canvas.h
 * @Function: Header file of Canvas.cpp, a class which models a drawing surface in which the cells each store a character.
 * It is called by all shapes as a parameter in method draw().
-* @author: Lin Li 40044486
+* @author: Lin Li 
 * @version: 1.0
 * @date: Aug 9, 2018
 */
