@@ -2,7 +2,7 @@
 * @ClassName: Rectangle.cpp
 * @Function: A inheritance hierarchy class derived from Shape calss, representing concrete geometric shape of Rectangle
 * It inherits members and methods from Shape class, override some of the methods, and also has its own members and methods.
-* @author: Lin Li 40044486
+* @author: Lin Li 
 * @version: 1.0
 * @date: Aug 9, 2018
 */
