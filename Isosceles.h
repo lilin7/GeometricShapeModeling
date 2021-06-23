@@ -2,7 +2,7 @@
 * @ClassName: Isosceles.cpp
 * @Function: Header file of Isosceles.cpp, an abstract class which inherited from Shape class, 
 * and serves as a common interface to triangle classes in the inheritance hierarchy
-* @author: Lin Li 40044486
+* @author: Lin Li 
 * @version: 1.0
 * @date: Aug 9, 2018
 */
