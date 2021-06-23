@@ -2,7 +2,7 @@
 * @ClassName: ShapeTestDriver.cpp
 * @Function: A test driver class to draw a shape of a house using different shapes and 
 * print the information of each shape used. It uses both early binding and late binding.
-* @author: Lin Li 40044486
+* @author: Lin Li 
 * @version: 1.0
 * @date: Aug 9, 2018
 */
