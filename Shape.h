@@ -2,7 +2,7 @@
 * @ClassName: Shape.cpp
 * @Function: Header file of Shape.cpp, an abstract class which serves as a common interface to all classes in the inheritance hierarchy,
 * but also makes polymorphism possible through Shape* and Shape& variables.
-* @author: Lin Li 40044486
+* @author: Lin Li 
 * @version: 1.0
 * @date: Aug 9, 2018
 */
